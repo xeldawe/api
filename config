@@ -1,0 +1,4 @@
+db-jdbc:jdbc:postgresql://127.0.0.1:5432/apigateway
+db-user:YOUR_USERNAME
+db-pass:YOUR_PASS
+sma: ????????
