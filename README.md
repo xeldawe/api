@@ -37,7 +37,7 @@ Filters:
 		(Example: User(root) + -> Delivery + -> Address)
 
 		user.delivery.address.street=Example street 1.	- String
-		user.delivery.address.<like>street=ple stre	- String
+		<like>user.delivery.address.street=ple stre	- String
 		user.delivery.address.street={[
 			"Example street 1.",
 			"Example street 2.",
