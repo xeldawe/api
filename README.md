@@ -1,6 +1,8 @@
-# API
+# Learning project for trying almost everything without dependecies (like spring security...etc) - created in 2017 - you should not use! 
 
-Write once an entity and nothing more than you can use GET, POST, PUT, DELETE!
+# API (like front controller pattern)
+
+Write an entity an you have full controll with rest - this is a webshop backend engine
 
 Generic controller -> generic service -> generic repo
 
@@ -14,8 +16,6 @@ sandbox: test
 
 
 Endpoint: /<entity>?<filters>
-
-Entity: You need to register in to DB (you can register with other name) with permissions
 
 Filters:
 
@@ -43,7 +43,7 @@ Filters:
 			"Example street 2.",
 			"Example street 3."]} 			- JSON (OR) - NOTE: You need to url encode this json section!
 
-If you dont want to use generic mode you can chose custom mode:
+If you dont want to use generic mode you can choose custom mode:
 
 Generic controller -> virtual controller (custom and this is not a real controller) - > generic service or custom service - > generic repo (if generic service used) or custom repo (if custom service used)
 
