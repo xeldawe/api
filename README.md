@@ -1,4 +1,5 @@
-# Learning project for trying almost everything without dependencies (like spring security...etc) - created in 2017 - you should not use! - this is a webshop backend engine
+# Learning project (webshop backend engine)
+ for trying almost everything without dependencies (like spring security...etc) - created in 2017 - you should not use!
 
 # API (like front controller pattern)
 
