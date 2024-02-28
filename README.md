@@ -1,8 +1,8 @@
-# Learning project for trying almost everything without dependencies (like spring security...etc) - created in 2017 - you should not use! 
+# Learning project for trying almost everything without dependencies (like spring security...etc) - created in 2017 - you should not use! - this is a webshop backend engine
 
 # API (like front controller pattern)
 
-Write an entity an you have full controll with rest - this is a webshop backend engine
+Write only an entity and you have full controll via rest
 
 Generic controller -> generic service -> generic repo
 
